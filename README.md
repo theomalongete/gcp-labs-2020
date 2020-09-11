@@ -48,7 +48,7 @@ Elastic Google Cloud Infrastructure: Scaling and Automation
 
 Labs: Translaion to Code
 ------------------------------
-**The following labs that exist in the Qwiklabs:**
+The following labs that exist in the Qwiklabs:
 
 ### Associate Cloud Engineer: Learning Phase 1 Main Track Channel (2020) ### 
 
