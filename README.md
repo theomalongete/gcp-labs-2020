@@ -70,8 +70,8 @@ In this lab, you learn how to perform the following tasks:
 
 ##STEPS
 1. Initialize App Engine.
-	gcloud config set project 
-	gcloud app create --project=theo-test
+	$PROJECT=theo-test
+	gcloud config set project $PROJECT
 	git clone https://github.com/GoogleCloudPlatform/python-docs-sample
 	cd python-docs-samples/appengine/standard_python3/hello_world
 2. Preview an App Engine application running locally in Cloud Shell.
