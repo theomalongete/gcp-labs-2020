@@ -5,16 +5,16 @@ Google Cloud Computing via Qwiklabs (2020)
 
 Labs
 ------------------------------
-**The following labs that exist in the Qwiklabs:**
+The following labs that exist in the Qwiklabs:
 
 ### Associate Cloud Engineer: Learning Phase 1 Main Track Channel (2020) ### 
 
 Google Cloud Platform Fundamentals - Core Infrastructure
 ------------------------------
 
-  i. ~~GCP Fundamentals: Getting Started with Cloud Marketplace~~
-  ii. ~~GCP Fundamentals: Getting Started with Compute Engine~~
-  . ~~GCP Fundamentals: Getting Started with Cloud Storage and Cloud SQL~~
+  1. ~~GCP Fundamentals: Getting Started with Cloud Marketplace~~
+  2. ~~GCP Fundamentals: Getting Started with Compute Engine~~
+  3. ~~GCP Fundamentals: Getting Started with Cloud Storage and Cloud SQL~~
   4. ~~GCP Fundamentals: Getting Started with GKE~~
   5. ~~GCP Fundamentals: Getting Started with App Engine~~
   6. ~~GCP Fundamentals: Getting Started with Deployment Manager and Cloud Monitoring~~
@@ -55,7 +55,6 @@ Labs: Translaion to Code
 LAB: GCP Fundamentals: Getting Started with Cloud Storage and Cloud SQL
 ------------------------------
 ***Objectives***
-
 In this lab, you learn how to perform the following tasks:
 	- Create a Cloud Storage bucket and place an image into it.
 	- Create a Cloud SQL instance and configure it.
@@ -81,7 +80,6 @@ LAB: GCP Fundamentals: Getting Started with Cloud Storage and Cloud SQL
 ------------------------------
 
 ***Objectives***
-
 In this lab, you learn how to perform the following tasks:
 	- Initialize App Engine.
 	- Preview an App Engine application running locally in Cloud Shell.
