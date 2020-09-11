@@ -9,17 +9,19 @@ Labs
 
 ### Associate Cloud Engineer: Learning Phase 1 Main Track Channel (2020) ### 
 
-####Google Cloud Platform Fundamentals - Core Infrastructure####
+Google Cloud Platform Fundamentals - Core Infrastructure
+------------------------------
 
-  1. ~~GCP Fundamentals: Getting Started with Cloud Marketplace~~
-  2. ~~GCP Fundamentals: Getting Started with Compute Engine~~
-  3. ~~GCP Fundamentals: Getting Started with Cloud Storage and Cloud SQL~~
+  i. ~~GCP Fundamentals: Getting Started with Cloud Marketplace~~
+  ii. ~~GCP Fundamentals: Getting Started with Compute Engine~~
+  . ~~GCP Fundamentals: Getting Started with Cloud Storage and Cloud SQL~~
   4. ~~GCP Fundamentals: Getting Started with GKE~~
   5. ~~GCP Fundamentals: Getting Started with App Engine~~
   6. ~~GCP Fundamentals: Getting Started with Deployment Manager and Cloud Monitoring~~
   7. ~~GCP Fundamentals: Getting Started with BigQuery~~
 
-2. Essential Google Cloud Infrastructure: Foundation
+Essential Google Cloud Infrastructure: Foundation
+------------------------------
 
   1. ~~Console and Cloud Shell~~
   2. Infrastructure Preview
@@ -28,14 +30,17 @@ Labs
   5. Creating Virtual Machines
   6. Working with Virtual Machines
 
-3. Essential Google Cloud Infrastructure: Core Services
+Essential Google Cloud Infrastructure: Core Services
+------------------------------
 
   1. ~~Cloud IAM~~
   2. ~~Implementing Cloud SQL~~
   3. ~~Examining Billing data with BigQuery~~
   4. ~~Error Reporting and Debugging~~
 
-4. Elastic Google Cloud Infrastructure: Scaling and Automation
+Elastic Google Cloud Infrastructure: Scaling and Automation
+------------------------------
+
   1. Virtual Private Networks (VPN)
   2. Configuring an HTTP Load Balancer with Autoscaling
   3. Automating the Deployment of Infrastructure Using Terraform
@@ -47,9 +52,9 @@ Labs: Translaion to Code
 
 ### Associate Cloud Engineer: Learning Phase 1 Main Track Channel (2020) ### 
 
-#LAB: GCP Fundamentals: Getting Started with Cloud Storage and Cloud SQL
-
-##Objectives
+LAB: GCP Fundamentals: Getting Started with Cloud Storage and Cloud SQL
+------------------------------
+***Objectives***
 
 In this lab, you learn how to perform the following tasks:
 	- Create a Cloud Storage bucket and place an image into it.
@@ -57,7 +62,7 @@ In this lab, you learn how to perform the following tasks:
 	- Connect to the Cloud SQL instance from a web server.
 	- Use the image in the Cloud Storage bucket on a web page.
 
-##STEPS
+***STEPS***
 
 1. Create a Cloud Storage bucket and place an image into it.
 	-  gsutil mb gs://theo-bucket
@@ -72,15 +77,18 @@ In this lab, you learn how to perform the following tasks:
 4. Use the image in the Cloud Storage bucket on a web page.
 	- gsutil cp gs://theo-bucket/theo.png Documents/theo1.png
 
-#LAB: GCP Fundamentals: Getting Started with Cloud Storage and Cloud SQL
-##Objectives
+LAB: GCP Fundamentals: Getting Started with Cloud Storage and Cloud SQL
+------------------------------
+
+***Objectives***
+
 In this lab, you learn how to perform the following tasks:
 	- Initialize App Engine.
 	- Preview an App Engine application running locally in Cloud Shell.
 	- Deploy an App Engine application, so that others can reach it.
 	- Disable an App Engine application, when you no longer want it to be visible.
 
-##STEPS
+***STEPS***
 
 1. Initialize App Engine.
 	- $PROJECT=theo-test
