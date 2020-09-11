@@ -82,7 +82,7 @@ LAB: GCP Fundamentals: Getting Started with Cloud Storage and Cloud SQL
 
 ***Objectives***
 
-In this lab, you learn how to perform the following tasks:
+- In this lab, you learn how to perform the following tasks:
 	- Initialize App Engine.
 	- Preview an App Engine application running locally in Cloud Shell.
 	- Deploy an App Engine application, so that others can reach it.
